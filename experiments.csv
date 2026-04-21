@@ -1,0 +1,5 @@
+run_id,date,model,dataset,seed,epochs,batch_size,lr,base_filters,val_iou
+001,2026-04-21,MicroUNet,BAGLS-test,42,10,8,0.001,8,0.8022
+001,2026-04-21,MicroUNet,BAGLS-test,42,10,8,0.001,8,0.8022
+002,2026-04-21,MicroUNet,BAGLS-test,43,10,8,0.001,8,0.7959
+003,2026-04-21,MicroUNet,BAGLS-test,44,10,8,0.001,8,0.8192
